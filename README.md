@@ -1,4 +1,4 @@
-# CutsceneSkip
+# <img src="https://github.com/theidiotcreature/SnapticCutsceneSkip/blob/main/data/gdpatch/mods/cutsceneskip/icon.png" alt="drawing" width="40"/> CutsceneSkip
 
 mod for SNAPTIC Demo that uses a small patcher to force fail all cutscene calls
 
