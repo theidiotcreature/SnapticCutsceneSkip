@@ -8,7 +8,7 @@ very hastily thrown together since cutscenes were annoying me so please report a
 
 ### download:
 
-get the latest release [here](https://github.com/theidiotcreature/CutsceneSkip/releases/latest)
+get the latest release [here](https://github.com/theidiotcreature/SnapticCutsceneSkip/releases/latest)
 
 this mod has integration with [SnapticBase](https://github.com/xNasuni/SnapticBase)
 
