@@ -1,0 +1,8 @@
+id = "cutsceneskip"
+
+[meta]
+name = "CutsceneSkip"
+version = "0.1.0"
+authors = ["theidiotcreature"]
+description = "QOL mod for skipping all/some cutscenes"
+website = "https://github.com/theidiotcreature/CutsceneSkip"
